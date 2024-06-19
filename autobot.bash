@@ -1,0 +1,13 @@
+python3 main.py -s="London lawyer paralegal"-t=500 -d="UK"
+python3 main.py -s="Milton Keynes lawyer paralegal"-t=500 -d="UK"
+python3 main.py -s="Edinburgh lawyer paralegal"-t=500 -d="UK"
+python3 main.py -s="Belfast lawyer paralegal"-t=500 -d="UK"
+python3 main.py -s="Glasgow lawyer paralegal"-t=500 -d="UK"
+python3 main.py -s="Bristol lawyer paralegal"-t=500 -d="UK"
+python3 main.py -s="Peterborough lawyer paralegal"-t=500 -d="UK"
+python3 main.py -s="Nottingham lawyer paralegal"-t=500 -d="UK"
+python3 main.py -s="Leeds lawyer paralegal"-t=500 -d="UK"
+python3 main.py -s="Derby lawyer paralegal"-t=500 -d="UK"
+python3 main.py -s="Portsmouth lawyer paralegal"-t=500 -d="UK"
+python3 main.py -s="Brighton & Hove lawyer paralegal"-t=500 -d="UK"
+
