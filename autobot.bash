@@ -10,4 +10,5 @@ python3 main.py -s="Leeds lawyer paralegal"-t=500 -d="UK"
 python3 main.py -s="Derby lawyer paralegal"-t=500 -d="UK"
 python3 main.py -s="Portsmouth lawyer paralegal"-t=500 -d="UK"
 python3 main.py -s="Brighton & Hove lawyer paralegal"-t=500 -d="UK"
+python3 main.py -s="Oxford lawyer paralegal"-t=500 -d="UK"
 
